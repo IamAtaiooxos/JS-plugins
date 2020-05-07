@@ -1,0 +1,14 @@
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 100
+  z-index: 9999999999;
+  left: 0;
+  top: 0;
+  width: 100%;
+@@ -30,4 +30,4 @@
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+} 
+}
